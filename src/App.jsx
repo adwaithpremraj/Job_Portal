@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <p>hai</p>
+      <h1>halo</h1>
     </>
   )
 }
